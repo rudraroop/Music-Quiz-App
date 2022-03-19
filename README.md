@@ -1,3 +1,6 @@
+# Music Quiz App
+Short Practice App in React.js - Music Quiz
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
